@@ -6,7 +6,7 @@
 * **Surya** - ID: 2620090023
 
 ### 👔 Supervisor
-* **Supervisor Name:** [Insert Faculty Name]
+ **Faculty Name:Dr K rajesh**
 
 ---
 
